@@ -11,7 +11,7 @@ const About = () => {
 
         <div className="aboutContent">
             <span className="hello" > Hello </span>
-            <span className="introText" > I'm <span className="introName" >Nikita Singh </span> <br /> Web Developer </span>
+            <span className="introText" > I'm <span className="introName" >John Carley</span> <br /> Web Developer </span>
             <p className="introPara" >I am a experienced Web Developer with ability to develope website 
             using MERN Technology.<br /></p>
            <Link>
